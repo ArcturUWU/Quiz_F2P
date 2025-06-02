@@ -43,7 +43,9 @@ VIII. [🙌 Acknowledgments](#-acknowledgments)
 
 <code>❯ Neon Quizlet is a free, open-source alternative to Quizlet — built for learners who are tired of paywalls and limitations. Whether you're cramming for exams or casually studying new topics, Neon Quizlet offers powerful tools without locking essential features behind a subscription.
 
-Inspired by the vibrant chaos of a neon-lit Tokyo night, the interface is bold, energetic, and unapologetically wild — designed to make studying feel less like a chore and more like a cyberpunk trip.</code>
+❯Inspired by the vibrant chaos of a neon-lit Tokyo night, the interface is bold, energetic, and unapologetically wild — designed to make studying feel less like a chore and more like a cyberpunk trip.
+
+❯P.S. sub in source is NOT REAL. DO NOT ENTER any real data or payment(if you want to pass sub - enter random numbers) or registrate with real passwords and mail because Security for now is bad.</code>
 
 ---
 
