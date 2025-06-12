@@ -476,6 +476,7 @@ Run the test suite using the following command:
 ```sh
 ❯ npm test
 ```
+# sub in source is NOT REAL. DO NOT ENTER any real data or payment(if you want to pass sub - enter random numbers) or registrate with real passwords and mail because Security for now is bad.
 
 ## 🎗 License
 
